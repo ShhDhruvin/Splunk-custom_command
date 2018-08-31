@@ -1,0 +1,2 @@
+# SplunkSnippets
+Basic Splunk Codes
